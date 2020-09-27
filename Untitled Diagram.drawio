@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T06:06:02.253Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="daX1A0qohO5gB9w31wRB" version="13.7.5" type="github"><diagram id="dMmp6hdhXttUHIQaQ7J7" name="Page-1">5Zddb5swFIZ/zbmchPm0L4HQ7WKrtuWilxMNTrBkcEScr/76HRMT8kGqdG06qZWi6Pj1AcP7+NgGvLTafG3yeflDFVyC6xQb8EbgusR3XTA/p9juFEqtMGtEYZN6YSyeuBUdqy5FwRdHiVopqcX8WJyouuYTfaTlTaPWx2lTJY9HneczfiaMJ7k8Vx9EoUv7Fm7U69+4mJXdyCRku54q75LtmyzKvFDrA8nLwEsbpfQuqjYpl8a8zpfddXcXevcP1vBaX3PB9v5pJbZpvf2lUkIfptFq/ueLvcsql0v7wpAxiF1gFLIAWAY06ZQIsggSDCzBhd52LjVqWRfcDOSAl6xLofl4nk9M7xrnBWqlriS2CIa5FLMaY8mn+ODJijdaoOGxlbUy+VNVazsbCMW2fU7M5ZuLBpC9rTgfuaq4braYYi/wuzllp6Lv2/a6BxsEVisPoLqeFXM7mWb7e/d+Y2Atf4H97oD9PiQUaGzsTwjQTmGtgnpMWg4JUL/tSiAJXwfk1OurAN0AiBtcCYTdioc3wCMEhoXAIKMGRrLjgRiitkA8oMSMaWjFwHzDBv9j+jGQEHolkvBWSPwBJEjCMb4b0zE+9xrX2rkJl5WMJ1o1B5Z9zx+5/KkWQgtlrHtUWqvqoqcHTNRSS1HzdL/TOM+AmqDhvHkbKMQ9WbiicyjeezIJBpgEEI8gDu38Z3efjEno/GcmbLBOkqDdJsJ2cXJ6OP0a1gZJu7kwYrb9z8XNGzgEvCs3MnQECwwjAyUy2z0udmYXSoGOPvwZILr2DEDIzYgMncqGSgltt6XUbkgGVmbRYAJFIqE05j02GM1MBBliRY70fvS7i9kz4Mi/g3vLogmcE0jsHNK+sF5ZNdjsv4navoMvSy/7Cw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-27T06:08:05.810Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="F65029v5g5YFab2dXfoj" version="13.7.5" type="github">
+  <diagram id="dMmp6hdhXttUHIQaQ7J7" name="Exercises System Context">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-1" value="题型颗粒" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="410" y="440" width="550" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-2" value="上层业务组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="410" y="250" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-3" value="教育产品/应用" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="410" y="180" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-4" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-5" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-9" value="资源生产人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="120" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-11" value="基础服务组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="410" y="750" width="550" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-12" value="资源统一管理&lt;br&gt;（NDR）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;align=center;" parent="1" vertex="1">
+          <mxGeometry x="500" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
