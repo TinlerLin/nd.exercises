@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T06:41:54.307Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="LD36C5dqhumHa1sC9lak" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T06:42:32.420Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="9uEB_rcGPcUlzsQZVZDH" version="13.7.5" type="github">
   <diagram id="dMmp6hdhXttUHIQaQ7J7" name="Exercises System Context">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="EcmyOV4ddDVi9s9MCKp2-26" value="101教育能力平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="218" width="690" height="502" as="geometry" />
         </mxCell>
-        <mxCell id="yNzviyCnyQoC18Wf7vp_-1" value="题型颗粒（基础组件）" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=18;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="yNzviyCnyQoC18Wf7vp_-1" value="题型颗粒（基础组件）" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fontSize=18;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;fontStyle=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="410" y="410" width="590" height="300" as="geometry" />
         </mxCell>
         <mxCell id="yNzviyCnyQoC18Wf7vp_-2" value="业务组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="1" vertex="1">
