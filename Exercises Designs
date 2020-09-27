@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T12:52:09.215Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="AIWbsjMblxilNQNo5tBv" version="13.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-27T12:52:45.336Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="WG131CiYbkv7-jhRMHPy" version="13.7.5" type="github" pages="4">
   <diagram id="dMmp6hdhXttUHIQaQ7J7" name="Exercises System Context">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,17 +324,17 @@
         <mxCell id="5Ojn2_zKqbGtn6EhuRoz-48" value="数据采集" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="ZZxjutypxxi9XADnGWIo-1">
           <mxGeometry x="927" y="750" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5Ojn2_zKqbGtn6EhuRoz-49" value="" style="endArrow=classic;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZZxjutypxxi9XADnGWIo-1" target="5Ojn2_zKqbGtn6EhuRoz-27">
+        <mxCell id="5Ojn2_zKqbGtn6EhuRoz-49" value="" style="endArrow=classic;html=1;fontSize=18;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZZxjutypxxi9XADnGWIo-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010" y="560" as="sourcePoint" />
-            <mxPoint x="1060" y="519.5" as="targetPoint" />
+            <mxPoint x="990" y="560" as="sourcePoint" />
+            <mxPoint x="1160" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Ojn2_zKqbGtn6EhuRoz-50" value="口语评测&lt;br&gt;语音合成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="ZZxjutypxxi9XADnGWIo-1">
-          <mxGeometry x="1060" y="527" width="80" height="20" as="geometry" />
+          <mxGeometry x="1040" y="527" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Ojn2_zKqbGtn6EhuRoz-51" value="手写识别&lt;br&gt;（汉字、英文单词）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="ZZxjutypxxi9XADnGWIo-1">
-          <mxGeometry x="1014" y="573" width="170" height="20" as="geometry" />
+          <mxGeometry x="994" y="573" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
