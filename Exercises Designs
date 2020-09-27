@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T13:07:50.417Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="gD9c53clfkjmiED94l09" version="13.7.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-09-27T13:08:03.621Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="hHQ1oKRZtLAJcbPVVP4G" version="13.7.5" type="github" pages="4">
   <diagram id="dMmp6hdhXttUHIQaQ7J7" name="Exercises System Context">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,8 +407,8 @@
         <mxCell id="BCLjrHfqtACFXp3ZsuFq-0" value="共享平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=18;align=left;fillColor=none;verticalAlign=top;" vertex="1" parent="82WCrk4FQQFpxm6Zxxu--1">
           <mxGeometry x="121" y="750" width="580" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BCLjrHfqtACFXp3ZsuFq-1" value="存&lt;br&gt;储&lt;br&gt;层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=18;fontStyle=1" vertex="1" parent="82WCrk4FQQFpxm6Zxxu--1">
-          <mxGeometry x="72" y="789" width="40" height="20" as="geometry" />
+        <mxCell id="BCLjrHfqtACFXp3ZsuFq-1" value="存&lt;br&gt;储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=18;fontStyle=1" vertex="1" parent="82WCrk4FQQFpxm6Zxxu--1">
+          <mxGeometry x="72" y="789" width="40" height="21" as="geometry" />
         </mxCell>
         <mxCell id="BCLjrHfqtACFXp3ZsuFq-2" value="资源统一管理&lt;br&gt;（NDR）" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffffff;fontSize=18;align=center;" vertex="1" parent="82WCrk4FQQFpxm6Zxxu--1">
           <mxGeometry x="224.5" y="778" width="120" height="60" as="geometry" />
