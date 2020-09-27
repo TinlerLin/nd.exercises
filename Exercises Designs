@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-27T07:01:30.858Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="2tmNlfanzUJYFjcMbLJQ" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-27T07:09:36.336Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="YZhLnQNOA9fMAFUw3Q29" version="13.7.5" type="github" pages="3">
   <diagram id="dMmp6hdhXttUHIQaQ7J7" name="Exercises System Context">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,6 +184,22 @@
         <mxCell id="EcmyOV4ddDVi9s9MCKp2-50" value="手写识别&lt;br&gt;（汉字、英文单词）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1014" y="573" width="170" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="aVSY1kCIp-t2Xu37EzPs" name="Exercises Tech Arch">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="82WCrk4FQQFpxm6Zxxu--0" />
+        <mxCell id="82WCrk4FQQFpxm6Zxxu--1" parent="82WCrk4FQQFpxm6Zxxu--0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e1oSgz3RifBIS_74RIb9" name="Conceptual Model">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="EhuTo4FloqaCqDw5-gNV-0" />
+        <mxCell id="EhuTo4FloqaCqDw5-gNV-1" parent="EhuTo4FloqaCqDw5-gNV-0" />
       </root>
     </mxGraphModel>
   </diagram>
