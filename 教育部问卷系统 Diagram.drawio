@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T13:41:22.593Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="SxZLvk6Ef4hBto2VLud6" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T13:42:00.485Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="kpIH3hQ2eA5DIR2HYlwg" version="13.9.9" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -38,10 +38,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FOyBfm_47GBpCwmmqaki-12" value="活动报告" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="283" y="591" width="170" height="52" as="geometry" />
+          <mxGeometry x="283" y="591" width="170" height="78" as="geometry" />
         </mxCell>
         <mxCell id="FOyBfm_47GBpCwmmqaki-13" value="+ 报告ID: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FOyBfm_47GBpCwmmqaki-12">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FOyBfm_47GBpCwmmqaki-88" value="+ 报告项集: List&lt;String&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FOyBfm_47GBpCwmmqaki-12">
+          <mxGeometry y="52" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FOyBfm_47GBpCwmmqaki-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;exitX=0.494;exitY=1.115;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FOyBfm_47GBpCwmmqaki-73" target="FOyBfm_47GBpCwmmqaki-20">
           <mxGeometry relative="1" as="geometry">
