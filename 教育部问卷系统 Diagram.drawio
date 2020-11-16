@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T12:38:41.892Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="ur-UmbEB7FQKq8lB2aXf" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T12:42:00.581Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="RjyCQ2KGnGW3KJ6B_B5D" version="13.9.9" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FOyBfm_47GBpCwmmqaki-74" value="&lt;b&gt;&lt;i&gt;问卷平台&lt;/i&gt;&lt;/b&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;fontSize=14;width=80;height=30;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="1050" height="560" as="geometry" />
+          <mxGeometry x="240" y="110" width="960" height="570" as="geometry" />
         </mxCell>
         <mxCell id="17acba5748e5396b-20" value="&lt;div style=&quot;line-height: 1.75 ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;调查问卷&lt;/font&gt;&lt;/div&gt;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=10;align=center;" parent="1" vertex="1">
           <mxGeometry x="648" y="384" width="160" height="78" as="geometry" />
@@ -17,15 +17,15 @@
           <mxGeometry y="52" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="FOyBfm_47GBpCwmmqaki-1" value="问卷题目" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="643" y="592" width="170" height="52" as="geometry" />
+          <mxGeometry x="643" y="200" width="170" height="52" as="geometry" />
         </mxCell>
         <mxCell id="FOyBfm_47GBpCwmmqaki-2" value="+ 题目ID: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FOyBfm_47GBpCwmmqaki-1">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FOyBfm_47GBpCwmmqaki-7" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FOyBfm_47GBpCwmmqaki-1" target="17acba5748e5396b-20">
+        <mxCell id="FOyBfm_47GBpCwmmqaki-7" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FOyBfm_47GBpCwmmqaki-2" target="17acba5748e5396b-20">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="843" y="792" as="sourcePoint" />
-            <mxPoint x="1003" y="792" as="targetPoint" />
+            <mxPoint x="728" y="250" as="sourcePoint" />
+            <mxPoint x="728" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FOyBfm_47GBpCwmmqaki-12" value="活动报告" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
@@ -34,11 +34,12 @@
         <mxCell id="FOyBfm_47GBpCwmmqaki-13" value="+ 报告ID: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="FOyBfm_47GBpCwmmqaki-12">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FOyBfm_47GBpCwmmqaki-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;" edge="1" parent="1" target="FOyBfm_47GBpCwmmqaki-20">
+        <mxCell id="FOyBfm_47GBpCwmmqaki-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;endArrow=none;endFill=0;exitX=0.494;exitY=1.115;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FOyBfm_47GBpCwmmqaki-73" target="FOyBfm_47GBpCwmmqaki-20">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1063" y="308" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1063" y="308" />
+              <mxPoint x="1063" y="344" />
+              <mxPoint x="1063" y="344" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -159,6 +160,12 @@
         <mxCell id="FOyBfm_47GBpCwmmqaki-61" value="1..n" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="FOyBfm_47GBpCwmmqaki-59">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="25" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FOyBfm_47GBpCwmmqaki-76" value="分析统计" style="endArrow=open;endSize=12;dashed=1;html=1;fontSize=14;exitX=0.465;exitY=1.038;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FOyBfm_47GBpCwmmqaki-22" target="FOyBfm_47GBpCwmmqaki-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="580" as="sourcePoint" />
+            <mxPoint x="1060" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
