@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-25T03:10:18.031Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="vkmVYEFBnBCwXyqlFGwX" version="13.10.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-25T03:12:33.041Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="eOebVkNFrpP9SfwQJOc0" version="13.10.2" type="github" pages="2">
   <diagram name="v0.1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -322,7 +322,7 @@
             <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hm1SyrStALufyDjuWtVR-24" value="发布者(机构管理员)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;strokeColor=#9673a6;" parent="GMZxkc-KX_4w9Wk267LI-1" vertex="1">
+        <mxCell id="Hm1SyrStALufyDjuWtVR-24" value="发布者" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;strokeColor=#9673a6;" parent="GMZxkc-KX_4w9Wk267LI-1" vertex="1">
           <mxGeometry x="359.5" y="260" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Hm1SyrStALufyDjuWtVR-27" value="调查活动" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e1d5e7;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;strokeColor=#9673a6;" parent="GMZxkc-KX_4w9Wk267LI-1" vertex="1">
