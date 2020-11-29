@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T08:05:20.044Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="Eg8E6gkveS5vN9o_SJxr" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-29T08:06:15.047Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="t8d_w4eOfGQ364y2pmI1" version="13.10.4" type="github" pages="2">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1422" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,26 +72,6 @@
         <mxCell id="4kPrY_ezc2-7KZohCzyL-111" value="上层业务组件" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="430" y="-50" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4kPrY_ezc2-7KZohCzyL-115" value="老师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4kPrY_ezc2-7KZohCzyL-116" value="习题资源&lt;br&gt;生产人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="340" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="4kPrY_ezc2-7KZohCzyL-118" value="" style="endArrow=block;endSize=16;endFill=0;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4kPrY_ezc2-7KZohCzyL-115" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="680" y="310" as="sourcePoint" />
-            <mxPoint x="200" y="270" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4kPrY_ezc2-7KZohCzyL-119" value="" style="endArrow=block;endSize=16;endFill=0;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4kPrY_ezc2-7KZohCzyL-116" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="145" y="350" as="sourcePoint" />
-            <mxPoint x="210" y="270" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_09IzTbrOEenSPEWMa51-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#FFFFFF;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="239.5" as="sourcePoint" />
@@ -110,7 +90,7 @@
         <mxCell id="wTia6wRogKPddzCyITyR-0" />
         <mxCell id="wTia6wRogKPddzCyITyR-1" parent="wTia6wRogKPddzCyITyR-0" />
         <mxCell id="wTia6wRogKPddzCyITyR-2" value="编题者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=none;fontSize=16;fontColor=#000000;fillColor=none;" parent="wTia6wRogKPddzCyITyR-1" vertex="1">
-          <mxGeometry x="110" y="360" width="30" height="60" as="geometry" />
+          <mxGeometry x="70" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ypA6DawA1buVtahDzo8l-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="wTia6wRogKPddzCyITyR-1">
           <mxGeometry x="200" y="210" width="410" height="430" as="geometry" />
