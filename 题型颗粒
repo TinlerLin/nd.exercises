@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T08:56:19.646Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="4lPeCfi_fCK5iXBltBZa" version="13.10.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-29T08:57:26.518Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="I6GKTk5DwZYOhdUe4Nc5" version="13.10.4" type="github" pages="4">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -290,6 +290,14 @@
         <mxCell id="0k-2KcC_X79gnKNFgGYW-3" value="选择题型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="UzNZ04iMHh2Xwok_RgJg-1">
           <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5YUYadpQxZ5IPTMSy_rx" name="关键业务流程（业务集成）">
+    <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="FHvQiSdyQGVHJRj5YkWC-0" />
+        <mxCell id="FHvQiSdyQGVHJRj5YkWC-1" parent="FHvQiSdyQGVHJRj5YkWC-0" />
       </root>
     </mxGraphModel>
   </diagram>
