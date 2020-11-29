@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T08:06:15.047Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="t8d_w4eOfGQ364y2pmI1" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-29T08:27:48.565Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="jTjzgqG6sYamZmYjTgPS" version="13.10.4" type="github" pages="2">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
-    <mxGraphModel dx="1422" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9lmYh3OOxI_qh_VnK-d5" name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览 用例总览">
-    <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wTia6wRogKPddzCyITyR-0" />
         <mxCell id="wTia6wRogKPddzCyITyR-1" parent="wTia6wRogKPddzCyITyR-0" />
@@ -113,7 +113,7 @@
             <mxPoint x="440" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R_J4CgVYIfzZerjrGzLX-2" value="编辑习题" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="wTia6wRogKPddzCyITyR-1">
+        <mxCell id="R_J4CgVYIfzZerjrGzLX-2" value="预览习题" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="wTia6wRogKPddzCyITyR-1">
           <mxGeometry x="470" y="380" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R_J4CgVYIfzZerjrGzLX-7" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="wTia6wRogKPddzCyITyR-1" source="ypA6DawA1buVtahDzo8l-1" target="R_J4CgVYIfzZerjrGzLX-2">
@@ -137,6 +137,18 @@
           <mxGeometry x="-0.2707" y="-4" relative="1" as="geometry">
             <mxPoint x="5.229999999999999" y="-6.689999999999998" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kc-OU3km9F6uOHgW0cUK-0" value="习题播放器" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;labelBackgroundColor=none;fontSize=16;fontColor=#000000;fillColor=none;" vertex="1" parent="wTia6wRogKPddzCyITyR-1">
+          <mxGeometry x="750" y="395" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kc-OU3km9F6uOHgW0cUK-1" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wTia6wRogKPddzCyITyR-1" source="R_J4CgVYIfzZerjrGzLX-2" target="kc-OU3km9F6uOHgW0cUK-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="390" as="sourcePoint" />
+            <mxPoint x="280" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kc-OU3km9F6uOHgW0cUK-2" value="播放习题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wTia6wRogKPddzCyITyR-1">
+          <mxGeometry x="620" y="400" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
