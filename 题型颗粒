@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T11:45:28.103Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="SEOk5MPwr-ym_qxXKuOr" version="13.10.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-11-30T11:50:32.321Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="sxvbdFqV_Ji4UqIckbs_" version="13.10.4" type="github" pages="12">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1673,10 +1673,70 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yAKbDOoxlz_L2W1vTP_s" name="习题播放器  关键业务流程">
-    <mxGraphModel dx="1422" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ocb9NTrrlM99jQgIyQxv-0" />
         <mxCell id="ocb9NTrrlM99jQgIyQxv-1" parent="ocb9NTrrlM99jQgIyQxv-0" />
+        <mxCell id="wldvnw-96qUXXidLr3Qn-26" value="BP01. 习题作答" style="shape=table;childLayout=tableLayout;rowLines=0;columnLines=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1;align=left;fontSize=24;" vertex="1" parent="ocb9NTrrlM99jQgIyQxv-1">
+          <mxGeometry x="70" y="90" width="690" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-27" value="" style="swimlane;horizontal=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;fontStyle=1" vertex="1" parent="wldvnw-96qUXXidLr3Qn-26">
+          <mxGeometry y="40" width="690" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-28" value="业务侧" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-27">
+          <mxGeometry x="40" width="325" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-39" value="" style="ellipse;fillColor=#000000;strokeColor=none;fontSize=24;align=left;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-28">
+          <mxGeometry x="140" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-40" value="打开习题" style="whiteSpace=wrap;html=1;fontSize=18;align=center;fillColor=none;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-28">
+          <mxGeometry x="95" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="wldvnw-96qUXXidLr3Qn-28" source="wldvnw-96qUXXidLr3Qn-39" target="wldvnw-96qUXXidLr3Qn-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-44" value="习题地址或内容" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-28">
+          <mxGeometry x="250" y="170" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-49" value="接收答案" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-28">
+          <mxGeometry x="95" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-53" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=18;align=center;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-28">
+          <mxGeometry x="140" y="700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-30" value="习题播放器" style="swimlane;connectable=0;startSize=40;html=1;whiteSpace=wrap;collapsible=0;recursiveResize=0;expand=0;pointerEvents=0;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-27">
+          <mxGeometry x="365" width="325" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-42" value="显示习题" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="wldvnw-96qUXXidLr3Qn-30">
+          <mxGeometry x="102.5" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="wldvnw-96qUXXidLr3Qn-27" source="wldvnw-96qUXXidLr3Qn-40" target="wldvnw-96qUXXidLr3Qn-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="ocb9NTrrlM99jQgIyQxv-1" source="wldvnw-96qUXXidLr3Qn-45" target="wldvnw-96qUXXidLr3Qn-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-45" value="作答习题" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="ocb9NTrrlM99jQgIyQxv-1">
+          <mxGeometry x="537.5" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="ocb9NTrrlM99jQgIyQxv-1" source="wldvnw-96qUXXidLr3Qn-42" target="wldvnw-96qUXXidLr3Qn-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="ocb9NTrrlM99jQgIyQxv-1" source="wldvnw-96qUXXidLr3Qn-47" target="wldvnw-96qUXXidLr3Qn-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-47" value="提交答案" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="ocb9NTrrlM99jQgIyQxv-1">
+          <mxGeometry x="537.5" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="ocb9NTrrlM99jQgIyQxv-1" source="wldvnw-96qUXXidLr3Qn-51" target="wldvnw-96qUXXidLr3Qn-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-51" value="处理答案" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=none;" vertex="1" parent="ocb9NTrrlM99jQgIyQxv-1">
+          <mxGeometry x="205" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wldvnw-96qUXXidLr3Qn-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="ocb9NTrrlM99jQgIyQxv-1" source="wldvnw-96qUXXidLr3Qn-49" target="wldvnw-96qUXXidLr3Qn-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
