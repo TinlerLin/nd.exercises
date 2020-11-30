@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T08:13:11.447Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="NZBKiOxVwbC9X6fcQlkh" version="13.10.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-11-30T08:33:43.945Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="qcX3trBr0aRrKe6pOErO" version="13.10.4" type="github" pages="10">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1363,13 +1363,159 @@
         <mxCell id="s_-e_o8LM1iEpo7ru4JW-0" />
         <mxCell id="s_-e_o8LM1iEpo7ru4JW-1" parent="s_-e_o8LM1iEpo7ru4JW-0" />
         <mxCell id="s_-e_o8LM1iEpo7ru4JW-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fontSize=12;align=left;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
-          <mxGeometry x="90" y="130" width="20" height="600" as="geometry" />
+          <mxGeometry x="80" y="130" width="20" height="940" as="geometry" />
         </mxCell>
         <mxCell id="s_-e_o8LM1iEpo7ru4JW-3" value="LC_QuestionEditor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
-          <mxGeometry x="220" y="140" width="110" height="590" as="geometry" />
+          <mxGeometry x="220" y="140" width="110" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-3">
+          <mxGeometry x="50" y="90" width="10" height="830" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-13" value="显示题型清单" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=12;" edge="1" target="Jry5WhpebfPQtGnGkctk-12" parent="s_-e_o8LM1iEpo7ru4JW-3">
+          <mxGeometry x="-0.2" y="10" relative="1" as="geometry">
+            <mxPoint x="60" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="220" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-3">
+          <mxGeometry x="60" y="240" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-3">
+          <mxGeometry x="60" y="350" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-20" value="显示题型编辑界面" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=12;exitX=1;exitY=0.686;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="Jry5WhpebfPQtGnGkctk-19" parent="s_-e_o8LM1iEpo7ru4JW-3" source="Jry5WhpebfPQtGnGkctk-5">
+          <mxGeometry x="0.7631" y="14" relative="1" as="geometry">
+            <mxPoint x="65" y="330" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="330" />
+              <mxPoint x="90" y="350" />
+            </Array>
+            <mxPoint x="-4" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-3">
+          <mxGeometry x="60" y="800" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-41" value="构造习题资源元数据" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;fontSize=12;exitX=1;exitY=0.839;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="Jry5WhpebfPQtGnGkctk-40" parent="s_-e_o8LM1iEpo7ru4JW-3" source="Jry5WhpebfPQtGnGkctk-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="770" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="60" y="785" />
+              <mxPoint x="90" y="785" />
+              <mxPoint x="90" y="800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="s_-e_o8LM1iEpo7ru4JW-4" value="LC_QuestionPlayer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
-          <mxGeometry x="414" y="135" width="110" height="590" as="geometry" />
+          <mxGeometry x="414" y="135" width="110" height="945" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-23" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-4">
+          <mxGeometry x="50" y="475" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-0" value="LC_UserTokenManager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry x="610" y="135" width="130" height="955" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="Jry5WhpebfPQtGnGkctk-0">
+          <mxGeometry x="60" y="105" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-1" value="LC_ResourceManager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry x="790" y="135" width="130" height="955" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="Jry5WhpebfPQtGnGkctk-1">
+          <mxGeometry x="60" y="565" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-29" value="返回习题资源上传地址（CS）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontSize=12;" edge="1" source="Jry5WhpebfPQtGnGkctk-27" parent="Jry5WhpebfPQtGnGkctk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="Jry5WhpebfPQtGnGkctk-1">
+          <mxGeometry x="60" y="850" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-2" value="LC_FileManager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fontSize=12;align=center;" vertex="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry x="970" y="137.5" width="130" height="852.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fontSize=12;align=center;" vertex="1" parent="Jry5WhpebfPQtGnGkctk-2">
+          <mxGeometry x="60" y="692.5" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-6" value="打开新建习题（uc_key）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" target="Jry5WhpebfPQtGnGkctk-5" parent="s_-e_o8LM1iEpo7ru4JW-1" source="s_-e_o8LM1iEpo7ru4JW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-9" value="获取UC Access Token" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" target="Jry5WhpebfPQtGnGkctk-8" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-10" value="返回UC Access Token" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontSize=12;" edge="1" source="Jry5WhpebfPQtGnGkctk-8" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-18" value="选择题型" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="450" as="sourcePoint" />
+            <mxPoint x="270.5" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-21" value="编辑习题内容" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="550" as="sourcePoint" />
+            <mxPoint x="270.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-22" value="预览习题" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="584" as="sourcePoint" />
+            <mxPoint x="270.5" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-24" value="播放习题" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" target="Jry5WhpebfPQtGnGkctk-23" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="279" y="610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-26" value="保存习题" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="690" as="sourcePoint" />
+            <mxPoint x="270.5" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-28" value="获取习题资源上传地址（CS）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" target="Jry5WhpebfPQtGnGkctk-27" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="700" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-33" value="上传习题数据文件" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;fontSize=12;" edge="1" target="Jry5WhpebfPQtGnGkctk-32" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="830" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-34" value="返回成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontSize=12;" edge="1" source="Jry5WhpebfPQtGnGkctk-32" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="906" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-37" value="返回成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;fontSize=12;" edge="1" source="Jry5WhpebfPQtGnGkctk-35" parent="s_-e_o8LM1iEpo7ru4JW-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1046" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-39" value="习题创建成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.2;exitY=1.001;fontSize=12;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="s_-e_o8LM1iEpo7ru4JW-1" source="Jry5WhpebfPQtGnGkctk-5" target="s_-e_o8LM1iEpo7ru4JW-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-190" y="1120" as="targetPoint" />
+            <mxPoint x="380" y="1120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jry5WhpebfPQtGnGkctk-42" value="创建习题资源（传入元数据）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.046;fontSize=12;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="s_-e_o8LM1iEpo7ru4JW-1" target="Jry5WhpebfPQtGnGkctk-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="988" as="sourcePoint" />
+            <mxPoint x="860" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
