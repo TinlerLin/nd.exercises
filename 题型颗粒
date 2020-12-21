@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T08:35:10.715Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="4cDPqWh63N33TCOp66Tg" version="13.11.0" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2020-12-21T09:41:37.911Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="5fDF6OunRQsNFDOtrj1A" version="13.11.0" type="github" pages="20">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2298,6 +2298,81 @@
         </mxCell>
         <mxCell id="4rPHZiQJPFT6VOLsUEOi-20" value="&lt;span style=&quot;color: rgb(50 , 50 , 50) ; font-size: 13px ; background-color: rgba(255 , 255 , 255 , 0.01)&quot;&gt;数据采集与存储&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=24;fontColor=#FFFFFF;spacing=0;" vertex="1" parent="4rPHZiQJPFT6VOLsUEOi-1">
           <mxGeometry x="640" y="322" width="22" height="106" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cnyAgJCbPBIcWfAx8VZG" name="ND15016 交互时序">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="2TThKnCCx2vdbn6XT1Nn-0" />
+        <mxCell id="2TThKnCCx2vdbn6XT1Nn-1" parent="2TThKnCCx2vdbn6XT1Nn-0" />
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-3" value="资源超市" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="2TThKnCCx2vdbn6XT1Nn-1">
+          <mxGeometry x="210" y="240" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="il8JeM8OiI_rSx4UsVWj-3">
+          <mxGeometry x="40" y="80" width="20" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="il8JeM8OiI_rSx4UsVWj-3">
+          <mxGeometry x="60" y="130" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-9" value="获取习题资源列表" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="il8JeM8OiI_rSx4UsVWj-8" parent="il8JeM8OiI_rSx4UsVWj-3">
+          <mxGeometry x="-0.2308" y="10" relative="1" as="geometry">
+            <mxPoint x="59" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="110" />
+              <mxPoint x="90" y="130" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-17" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;width=50;height=20;" vertex="1" parent="2TThKnCCx2vdbn6XT1Nn-1">
+          <mxGeometry x="190" y="420" width="530" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-2" value="用户" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="2TThKnCCx2vdbn6XT1Nn-1">
+          <mxGeometry x="70" y="240" width="30" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-4" value="习题播放器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="2TThKnCCx2vdbn6XT1Nn-1">
+          <mxGeometry x="580" y="240" width="100" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="il8JeM8OiI_rSx4UsVWj-4">
+          <mxGeometry x="45" y="190" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="il8JeM8OiI_rSx4UsVWj-4">
+          <mxGeometry x="55" y="230" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-14" value="习题渲染" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="il8JeM8OiI_rSx4UsVWj-13" parent="il8JeM8OiI_rSx4UsVWj-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="58" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="58" y="210" />
+              <mxPoint x="85" y="210" />
+              <mxPoint x="85" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-6" value="打开习题资源列表页面" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="il8JeM8OiI_rSx4UsVWj-5" parent="2TThKnCCx2vdbn6XT1Nn-1" source="il8JeM8OiI_rSx4UsVWj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-11" value="调用习题展示(&lt;font color=&quot;#ff0000&quot;&gt;列表式&lt;/font&gt;)：传入习题地址、显示区域" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="2TThKnCCx2vdbn6XT1Nn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="271" y="440" as="sourcePoint" />
+            <mxPoint x="623" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-12" value="展示习题内容" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" source="il8JeM8OiI_rSx4UsVWj-10" parent="2TThKnCCx2vdbn6XT1Nn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="il8JeM8OiI_rSx4UsVWj-15" value="展示习题资源列表" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="2TThKnCCx2vdbn6XT1Nn-1" target="il8JeM8OiI_rSx4UsVWj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="247" y="570" as="sourcePoint" />
+            <mxPoint x="90" y="570" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
