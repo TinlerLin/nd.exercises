@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T04:13:16.337Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="IpbkkMfywSnk1oViMOpa" version="14.1.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2020-12-23T04:20:03.863Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="Vmd-PTTehEs924J7xqUc" version="14.1.1" type="github" pages="21">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2421,7 +2421,7 @@
         <mxCell id="bqsj4rE0WdWLhRCMsPQj-18" value="+ 英文单词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bqsj4rE0WdWLhRCMsPQj-17">
           <mxGeometry y="26" width="200" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bqsj4rE0WdWLhRCMsPQj-22" value="+ 中文翻译" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bqsj4rE0WdWLhRCMsPQj-17">
+        <mxCell id="bqsj4rE0WdWLhRCMsPQj-22" value="+ 中文释义" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bqsj4rE0WdWLhRCMsPQj-17">
           <mxGeometry y="52" width="200" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bqsj4rE0WdWLhRCMsPQj-19" value="+ 音标" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="bqsj4rE0WdWLhRCMsPQj-17">
