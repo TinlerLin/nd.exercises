@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T09:31:44.619Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="b4xLVQmTy41NpLsDkVPs" version="14.1.1" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2020-12-23T09:41:25.760Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="SGILzRjteZ9IG01MnIWw" version="14.1.1" type="github" pages="22">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2378,7 +2378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pR1IW5wvmmg94PthaYgT" name="题型颗粒创意 - 领域模型">
-    <mxGraphModel dx="2249" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LdoPaYsj8hWcLE747eiS-0" />
         <mxCell id="LdoPaYsj8hWcLE747eiS-1" parent="LdoPaYsj8hWcLE747eiS-0" />
@@ -2518,6 +2518,29 @@
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="30" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="apIIHkOQuBXiWr8qd1hM" name="题型颗粒创意 - 功能设计">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="hi-KgjNCUH4IrQC4XNi4-0" />
+        <mxCell id="hi-KgjNCUH4IrQC4XNi4-1" parent="hi-KgjNCUH4IrQC4XNi4-0" />
+        <mxCell id="4dOLKuMaZYEyAc-8kQns-0" value="教材章节选择" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="hi-KgjNCUH4IrQC4XNi4-1">
+          <mxGeometry x="220" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dOLKuMaZYEyAc-8kQns-1" value="英文单词&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;学&lt;/font&gt;&lt;/b&gt;习" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="hi-KgjNCUH4IrQC4XNi4-1">
+          <mxGeometry x="380" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dOLKuMaZYEyAc-8kQns-2" value="英文单词&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;练&lt;/font&gt;&lt;/b&gt;习" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="hi-KgjNCUH4IrQC4XNi4-1">
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dOLKuMaZYEyAc-8kQns-3" value="单元&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;测&lt;/font&gt;&lt;/b&gt;验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="hi-KgjNCUH4IrQC4XNi4-1">
+          <mxGeometry x="700" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dOLKuMaZYEyAc-8kQns-4" value="基本信息填写" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;strokeColor=#666666;gradientColor=#b3b3b3;fillColor=#f5f5f5;" vertex="1" parent="hi-KgjNCUH4IrQC4XNi4-1">
+          <mxGeometry x="60" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
