@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T08:04:15.953Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="NS2GgGB07LO7BLYfAkKq" version="14.1.1" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2020-12-24T08:09:09.903Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="9l1nkgGfSkGzUcaMQ9Fo" version="14.1.1" type="github" pages="23">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2636,7 +2636,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hV6vJ3w5rxvFX-MAGnEV" name="招生管理组件化设计 系统上下文">
-    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2-q9ankdLdk_wS8LeGfU-0" />
         <mxCell id="2-q9ankdLdk_wS8LeGfU-1" parent="2-q9ankdLdk_wS8LeGfU-0" />
@@ -2734,7 +2734,7 @@
           <mxGeometry x="140" y="574" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2-q9ankdLdk_wS8LeGfU-25" value="RBAC" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;fontSize=15;align=center;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
-          <mxGeometry x="410" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-0" value="通用工具套件&lt;br&gt;提醒服务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;fontSize=15;align=center;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
           <mxGeometry x="790" y="546" width="120" height="60" as="geometry" />
@@ -2743,10 +2743,10 @@
           <mxGeometry x="280" y="150" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-2" value="教务管理套件&lt;br&gt;教务管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;fontSize=15;align=center;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
-          <mxGeometry x="560" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-3" value="UC" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;fontSize=15;align=center;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
-          <mxGeometry x="260" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="218.5" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-4" value="运营套件 - 报名" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;fontSize=15;align=center;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
           <mxGeometry x="790" y="320" width="120" height="60" as="geometry" />
@@ -2782,19 +2782,19 @@
           <mxGeometry x="690" y="555" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-14" value="身份认证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
-          <mxGeometry x="330" y="640" width="17" height="40" as="geometry" />
+          <mxGeometry x="300" y="640" width="17" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-17" value="权限管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
-          <mxGeometry x="470" y="640" width="20" height="40" as="geometry" />
+          <mxGeometry x="380" y="640" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-18" value="" style="endArrow=classic;html=1;fontSize=15;" edge="1" parent="2-q9ankdLdk_wS8LeGfU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="610" as="sourcePoint" />
-            <mxPoint x="620" y="700" as="targetPoint" />
+            <mxPoint x="540" y="615" as="sourcePoint" />
+            <mxPoint x="540" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5BN3logA-8cZurkzfj-V-19" value="学校数据等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
-          <mxGeometry x="630" y="640" width="17" height="40" as="geometry" />
+        <mxCell id="5BN3logA-8cZurkzfj-V-19" value="学校数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
+          <mxGeometry x="550" y="645" width="17" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-20" value="" style="endArrow=classic;html=1;fontSize=15;" edge="1" parent="2-q9ankdLdk_wS8LeGfU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2819,14 +2819,14 @@
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-25" value="" style="endArrow=classic;html=1;fontSize=15;" edge="1" parent="2-q9ankdLdk_wS8LeGfU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="615" as="sourcePoint" />
-            <mxPoint x="460" y="705" as="targetPoint" />
+            <mxPoint x="409.5" y="615" as="sourcePoint" />
+            <mxPoint x="409.5" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-28" value="" style="endArrow=classic;html=1;fontSize=15;" edge="1" parent="2-q9ankdLdk_wS8LeGfU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.5" y="615" as="sourcePoint" />
-            <mxPoint x="319.5" y="705" as="targetPoint" />
+            <mxPoint x="320" y="615" as="sourcePoint" />
+            <mxPoint x="320" y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-29" value="学生应用中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;fontSize=15;align=center;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
@@ -2840,6 +2840,18 @@
         </mxCell>
         <mxCell id="5BN3logA-8cZurkzfj-V-31" value="集成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
           <mxGeometry x="580" y="250" width="17" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5BN3logA-8cZurkzfj-V-32" value="教务管理套件&lt;br&gt;学籍管理" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffffff;gradientColor=#ffffff;fontSize=15;align=center;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
+          <mxGeometry x="610" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5BN3logA-8cZurkzfj-V-33" value="" style="endArrow=classic;html=1;fontSize=15;" edge="1" parent="2-q9ankdLdk_wS8LeGfU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="615" as="sourcePoint" />
+            <mxPoint x="620" y="705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5BN3logA-8cZurkzfj-V-34" value="录取转新生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="2-q9ankdLdk_wS8LeGfU-1">
+          <mxGeometry x="630" y="640" width="17" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
