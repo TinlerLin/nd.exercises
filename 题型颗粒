@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T06:29:19.511Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="21FAzlEQ9Jt7A6K2_Pns" version="14.1.2" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-01-21T07:32:22.588Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="ndxNobXwdGINmfiFkHcp" version="14.1.2" type="github" pages="24">
   <diagram name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1422" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2857,44 +2857,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O2FobIABXpQEaUEBMeLT" name="招生管理组件 系统用例">
-    <mxGraphModel dx="2249" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-0" />
         <mxCell id="PUkXXlwyLUC9kY32vAIw-1" parent="PUkXXlwyLUC9kY32vAIw-0" />
         <mxCell id="PUkXXlwyLUC9kY32vAIw-29" value="招生管理组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;verticalAlign=top;align=left;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
           <mxGeometry x="50" y="60" width="640" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="PUkXXlwyLUC9kY32vAIw-2" value="预报名管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="110" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-2" target="23NCY5fj4BJTAI6uh0LI-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PUkXXlwyLUC9kY32vAIw-3" value="预报名审核管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="110" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-2" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="23NCY5fj4BJTAI6uh0LI-1">
+          <mxGeometry x="-0.1454" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-2" target="23NCY5fj4BJTAI6uh0LI-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-2" target="23NCY5fj4BJTAI6uh0LI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-2" target="23NCY5fj4BJTAI6uh0LI-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-2" target="23NCY5fj4BJTAI6uh0LI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-13" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-2" target="23NCY5fj4BJTAI6uh0LI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-15" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="23NCY5fj4BJTAI6uh0LI-13">
+          <mxGeometry x="-0.1335" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUkXXlwyLUC9kY32vAIw-2" value="预报名管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
+          <mxGeometry x="60" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-4" value="缴费管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="110" y="450" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-5" value="学籍管理" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="110" y="555" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="690" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-6" value="预报名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="510" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-7" value="扫码报名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="300" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="380" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-8" value="在线报名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="300" y="300" width="120" height="80" as="geometry" />
+          <mxGeometry x="370" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-9" value="报名信息维护" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="510" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-10" target="PUkXXlwyLUC9kY32vAIw-2">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PUkXXlwyLUC9kY32vAIw-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" target="PUkXXlwyLUC9kY32vAIw-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-60" y="380" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-10" target="PUkXXlwyLUC9kY32vAIw-4">
           <mxGeometry relative="1" as="geometry" />
@@ -2906,13 +2926,13 @@
           <mxGeometry x="-90" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-11" value="报名缴费" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="510" y="465" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="465" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-12" value="查看报名结果" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="510" y="570" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-13" value="查看录取通知" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
-          <mxGeometry x="510" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="540" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PUkXXlwyLUC9kY32vAIw-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-14" target="PUkXXlwyLUC9kY32vAIw-6">
           <mxGeometry relative="1" as="geometry">
@@ -2938,17 +2958,35 @@
         <mxCell id="PUkXXlwyLUC9kY32vAIw-14" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
           <mxGeometry x="780" y="465" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PUkXXlwyLUC9kY32vAIw-26" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-7" target="PUkXXlwyLUC9kY32vAIw-6">
+        <mxCell id="PUkXXlwyLUC9kY32vAIw-26" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-7" target="PUkXXlwyLUC9kY32vAIw-6">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="270" y="440" as="sourcePoint" />
             <mxPoint x="430" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUkXXlwyLUC9kY32vAIw-28" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-8" target="PUkXXlwyLUC9kY32vAIw-6">
+        <mxCell id="PUkXXlwyLUC9kY32vAIw-28" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="PUkXXlwyLUC9kY32vAIw-1" source="PUkXXlwyLUC9kY32vAIw-8" target="PUkXXlwyLUC9kY32vAIw-6">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="440" y="215" as="sourcePoint" />
             <mxPoint x="520" y="280" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-0" value="创建预报名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
+          <mxGeometry x="230" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-3" value="编辑预报名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
+          <mxGeometry x="230" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-5" value="上下架预报名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
+          <mxGeometry x="230" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-8" value="报名设置" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
+          <mxGeometry x="230" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-10" value="预报名审核" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
+          <mxGeometry x="230" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="23NCY5fj4BJTAI6uh0LI-12" value="查看预报名统计" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="PUkXXlwyLUC9kY32vAIw-1">
+          <mxGeometry x="230" y="580" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
