@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T05:01:48.144Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="NJYN8exTqcEZEjG5faxU" version="14.2.9" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-02-01T06:03:47.144Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="y8JVPmEIoyXjRxkXsNhv" version="14.2.9" type="github" pages="25">
   <diagram id="8Z597xEVqhOPjYR_7IWb" name="【ND04392_2】【101教育能力平台】习题编辑器支持实时预览">
     <mxGraphModel dx="1422" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2926,6 +2926,127 @@
         </mxCell>
         <mxCell id="8YL_E9cAOaSqIDPVcUBt-11" value="答题者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=18;" vertex="1" parent="8YL_E9cAOaSqIDPVcUBt-1">
           <mxGeometry x="80" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wvWP5gYAxkQyKMMowx8U" name="ND16197-1 系统上下文">
+    <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ZxwmiFAmYKinFHHBmnf4-0" />
+        <mxCell id="ZxwmiFAmYKinFHHBmnf4-1" parent="ZxwmiFAmYKinFHHBmnf4-0" />
+        <mxCell id="OFMiHeqnvT40uZF221Sh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="560" as="sourcePoint" />
+            <mxPoint x="413" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-1" value="K12-题型颗粒" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;verticalAlign=top;fillColor=#bac8d3;align=left;strokeColor=none;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="310" y="330" width="370" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1" source="OFMiHeqnvT40uZF221Sh-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-3" value="答题者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="120" y="470" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-4" value="共享平台" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=24;verticalAlign=top;align=left;fillColor=#f9f7ed;strokeColor=none;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="310" y="680" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1" source="OFMiHeqnvT40uZF221Sh-6" target="OFMiHeqnvT40uZF221Sh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-6" value="达标测评" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;verticalAlign=middle;align=center;fillColor=#f8cecc;strokeColor=none;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="310" y="180" width="370" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1" source="OFMiHeqnvT40uZF221Sh-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-8" value="智能出题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="820" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-9" value="CS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="364" y="730" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-10" value="NDR" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="540" y="730" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="589.5" y="560" as="sourcePoint" />
+            <mxPoint x="590" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="590" />
+              <mxPoint x="590" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-12" value="作答习题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="190" y="470" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-13" value="习题播放器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="354" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-14" value="习题批改服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="520" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-15" value="习题生产" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="707" y="390" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-16" value="习题入库" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="600" y="570" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-17" value="习题内容存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="420" y="550" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="670" as="sourcePoint" />
+            <mxPoint x="400" y="559.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-19" value="习题内容读取" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;horizontal=1;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="370" y="550" width="20" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-20" value="产品集成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="500" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-21" value="测评组件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="820" y="474" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="481" as="targetPoint" />
+            <mxPoint x="820" y="481" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-23" value="习题作答" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="710" y="460" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="505" as="targetPoint" />
+            <mxPoint x="820" y="505" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-25" value="习题作答批改" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="710" y="485" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-26" value="习题入库服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;align=center;fillColor=#eeeeee;strokeColor=none;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fontSize=16;" edge="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="530" as="targetPoint" />
+            <mxPoint x="820" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OFMiHeqnvT40uZF221Sh-31" value="习题作答结果解析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="ZxwmiFAmYKinFHHBmnf4-1">
+          <mxGeometry x="687" y="510" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
